@@ -152,7 +152,21 @@ EXPOSE 80
 
 
 
+#### Pushing the new files "dockerfile" and "index.html" will automatically push jenkins to run new job
+![image](https://github.com/user-attachments/assets/2f6b7566-766c-47c5-861e-4fb160e77d5e)
 
+
+
+
+
+#### To access the content in the "index.html" file, open port 8081 in the security group 
+![image](https://github.com/user-attachments/assets/30801c14-a709-4f45-be87-07175116df0d)
+
+
+
+
+#### We can access the content of the html on the web browser 
+![image](https://github.com/user-attachments/assets/c03eff93-cbc6-431e-972d-12b80b63dde5)
 
 
 
